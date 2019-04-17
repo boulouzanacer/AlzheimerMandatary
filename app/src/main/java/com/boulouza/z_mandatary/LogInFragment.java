@@ -1,4 +1,4 @@
-package com.vpaliy.loginconcept;
+package com.boulouza.z_mandatary;
 
 import android.graphics.Color;
 import android.graphics.Typeface;
@@ -9,21 +9,16 @@ import android.support.design.widget.TextInputEditText;
 import android.support.design.widget.TextInputLayout;
 import android.support.v4.content.ContextCompat;
 import android.text.Editable;
-import android.text.TextWatcher;
 
 import com.transitionseverywhere.ChangeBounds;
 import com.transitionseverywhere.Transition;
-import com.transitionseverywhere.TransitionInflater;
 import com.transitionseverywhere.TransitionManager;
 import com.transitionseverywhere.TransitionSet;
 
 import android.util.TypedValue;
-import android.view.MotionEvent;
 import android.view.View;
 import android.annotation.TargetApi;
 import android.support.annotation.Nullable;
-import android.view.animation.Animation;
-import android.view.animation.RotateAnimation;
 
 import java.util.List;
 

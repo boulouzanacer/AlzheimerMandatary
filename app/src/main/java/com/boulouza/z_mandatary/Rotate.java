@@ -1,11 +1,9 @@
-package com.vpaliy.loginconcept;
+package com.boulouza.z_mandatary;
 
 import android.animation.Animator;
 import android.animation.ObjectAnimator;
-import android.annotation.TargetApi;
 import android.content.Context;
 import android.content.res.TypedArray;
-import android.os.Build;
 
 import com.transitionseverywhere.Transition;
 import com.transitionseverywhere.TransitionValues;
@@ -13,7 +11,6 @@ import com.transitionseverywhere.TransitionValues;
 import android.util.AttributeSet;
 import android.view.View;
 import android.view.ViewGroup;
-import android.view.animation.RotateAnimation;
 
 public class Rotate extends Transition {
 

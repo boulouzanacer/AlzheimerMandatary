@@ -1,8 +1,7 @@
-package com.vpaliy.loginconcept;
+package com.boulouza.z_mandatary;
 
 import android.graphics.Color;
 import android.graphics.Typeface;
-import android.os.Build;
 import android.os.Bundle;
 import android.support.constraint.ConstraintLayout;
 import android.support.design.widget.TextInputEditText;
@@ -21,7 +20,6 @@ import android.view.View;
 import java.util.List;
 
 import android.support.annotation.Nullable;
-import android.annotation.TargetApi;
 
 import butterknife.BindViews;
 import butterknife.ButterKnife;

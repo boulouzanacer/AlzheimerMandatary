@@ -1,4 +1,4 @@
-package com.vpaliy.loginconcept;
+package com.boulouza.z_mandatary;
 
 import android.animation.AnimatorSet;
 import android.animation.ObjectAnimator;
@@ -12,11 +12,11 @@ import android.view.View;
 import android.view.animation.AccelerateDecelerateInterpolator;
 import android.widget.ImageView;
 
+
 import java.util.List;
 import java.util.Objects;
 
-public class AuthAdapter extends FragmentStatePagerAdapter
-        implements AuthFragment.Callback {
+public class AuthAdapter extends FragmentStatePagerAdapter implements AuthFragment.Callback {
 
   private final AnimatedViewPager pager;
   private final SparseArray<AuthFragment> authArray;

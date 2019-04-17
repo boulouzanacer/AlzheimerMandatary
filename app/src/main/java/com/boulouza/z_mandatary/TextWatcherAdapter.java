@@ -1,4 +1,4 @@
-package com.vpaliy.loginconcept;
+package com.boulouza.z_mandatary;
 
 import android.text.Editable;
 import android.text.TextWatcher;

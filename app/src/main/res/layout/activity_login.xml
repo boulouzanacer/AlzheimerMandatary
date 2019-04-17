@@ -4,7 +4,7 @@
     android:id="@+id/root"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.vpaliy.loginconcept.LoginActivity">
+    tools:context="com.vpaliy.loginconcept.com.boulouza.loginconcept.LoginActivity">
 
     <ImageView
         android:id="@+id/scrolling_background"
@@ -20,7 +20,7 @@
         app:layout_constraintVertical_bias="0.0"
         tools:src="@drawable/busy" />
 
-    <com.vpaliy.loginconcept.AnimatedViewPager
+    <com.boulouza.z_mandatary.AnimatedViewPager
         android:id="@+id/pager"
         android:layout_width="0dp"
         android:layout_height="0dp"

@@ -71,7 +71,7 @@
             android:inputType="textPassword" />
     </android.support.design.widget.TextInputLayout>
 
-    <com.vpaliy.loginconcept.VerticalTextView
+    <com.boulouza.z_mandatary.VerticalTextView
         android:id="@+id/caption"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

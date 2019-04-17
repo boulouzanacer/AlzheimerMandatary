@@ -1,4 +1,4 @@
-package com.vpaliy.loginconcept;
+package com.boulouza.z_mandatary;
 
 import android.os.Bundle;
 import android.support.constraint.ConstraintLayout;
@@ -71,7 +71,7 @@ public abstract class AuthFragment extends Fragment {
     if (!lock) {
       caption.setVerticalText(false);
       caption.requestLayout();
-      Rotate transition = new Rotate();
+      com.boulouza.z_mandatary.Rotate transition = new Rotate();
       transition.setStartAngle(-90f);
       transition.setEndAngle(0f);
       transition.addTarget(caption);

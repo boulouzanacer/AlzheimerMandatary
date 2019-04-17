@@ -1,4 +1,4 @@
-package com.vpaliy.loginconcept;
+package com.boulouza.z_mandatary;
 
 import android.content.Context;
 import android.support.v4.view.ViewPager;
